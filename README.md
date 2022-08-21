@@ -9,7 +9,7 @@ This thesis is about authorship attribution (AA), the task that aims to identify
 
 ## Repository Overview
 
-The "DepauwThesisCode" folder contains all relevant items, including a Jupyter Notebook with the source code used for the experiments reported on in the Master's Thesis. It also includes a folder containing some of the Figures (confusion matrices, graphs, etc.) used throughout the thesis to allow for better/easier viewing, making quick comparisons, etc. Due to copyright restrictions, the data/corpus used for the thesis will not be made publicly available alongside the code, but the code can be adapted/built upon to work with similar corpora to replicate the experiments, etc.
+The "DepauwThesisCode" folder contains all relevant items, including a Jupyter Notebook with the source code used for the experiments reported on in the Master's Thesis. It also includes a folder containing some of the Figures (confusion matrices, graphs, etc.) used throughout the thesis to allow for better/easier viewing, making quick comparisons, etc. Due to copyright restrictions, the data/corpus used for the thesis will not be made publicly available alongside the code, but the code can be adapted/built upon to work with similar corpora to replicate the experiments.
 
 
 ## Author(s)
